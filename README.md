@@ -7,7 +7,7 @@ Basit ama stabil sistemler kurmayı, temiz kod yazmayı ve kullanıcı deneyimin
 🔧 Kullandığım Teknolojiler
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </p>
 📊 GitHub İstatistikleri
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Deo_C&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /> </p>
 
 🕹️ Üzerinde Çalıştığım Alanlar
 
