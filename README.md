@@ -9,13 +9,6 @@ Basit ama stabil sistemler kurmayı, temiz kod yazmayı ve kullanıcı deneyimin
 📊 GitHub İstatistikleri
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Deo-C&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /> </p>
 
-🕹️ Üzerinde Çalıştığım Alanlar
-
-Unity 2D mobil oyun geliştirme
-
-Market, karakter ve veri yönetim sistemleri
-
-Kullanıcı dostu oyun içi arayüzler
 
 <!--
 **Deo-C/Deo-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
