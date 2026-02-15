@@ -13,4 +13,8 @@
 İtch.io Sayfam 
 https://deo-c.itch.io/
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deo-c&show_icons=true&locale=en&layout=compact" alt="deo-c" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deo-c&show_icons=true&locale=en" alt="deo-c" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
