@@ -12,7 +12,7 @@
 
 İtch.io Sayfam 
 https://deo-c.itch.io/
-<p align="left"> <a href="[https://developer.android.com](https://deo-c.itch.io/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a 
 
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
