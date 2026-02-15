@@ -18,5 +18,5 @@
 
 <p align="center">
 📊 GitHub İstatistikleri
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
 </p>
