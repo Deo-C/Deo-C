@@ -1,28 +1,14 @@
-## 🧑‍💻 Merhaba, Ben Ömer Faruk Berber
+<h1 align="center">Merhaba 👋, ben Ömer Faruk Berber</h1>
+- 📫 Bana nasıl ulaşabilirsiniz: **ofberber204@gmail.com**
 
-Unity 2D odaklı oyunlar geliştiriyorum.
-C# konusunda deneyimliyim, Python tarafında ise öğrenmeye ve projelerimde kullanmaya devam ediyorum.
-Basit ama stabil sistemler kurmayı, temiz kod yazmayı ve kullanıcı deneyimini ön planda tutmayı seviyorum.
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://instagram.com/deooo_248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deooo_248" height="30" width="40" /></a>
+</p>
 
-🔧 Kullandığım Teknolojiler
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </p>
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deo-c&show_icons=true&locale=en&layout=compact" alt="deo-c" /></p>
 
-📊 GitHub İstatistikleri
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Deo-C&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /> </p>
-
-
-<!--
-**Deo-C/Deo-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
