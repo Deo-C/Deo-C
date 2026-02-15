@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋 Ben Ömer Faruk Berber</h1>
 
-Unity 2D odaklı oyunlar geliştiriyorum.
+Unity <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 2D odaklı oyunlar geliştiriyorum.
 C# konusunda deneyimliyim, Python tarafında ise öğrenmeye ve projelerimde kullanmaya devam ediyorum.
 <p align="left">
 Basit ama stabil sistemler kurmayı, temiz kod yazmayı ve kullanıcı deneyimini ön planda tutmayı seviyorum.
