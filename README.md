@@ -1,84 +1,14 @@
-### <div align="center">Merhaba ben Ömer Faruk Berber Unity ile 4 yıldır Mobil oyun geliştiriyorum</div>  
-  
+<h1 align="center">Hi 👋, I'm Ömer Faruk Berber</h1>
+- 📫 How to reach me **ofberber204@gmail.com**
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/deooo_248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deooo_248" height="30" width="40" /></a>
+</p>
 
-- 🌱 Şu anda Python Öğreniyorum.  
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br/>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deo-c&show_icons=true&locale=en&layout=compact" alt="deo-c" /></p>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/deo-c" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/omerfarukbr_20" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/deooo_248" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deo-c&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=deo-c&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c&" alt="deo-c" /></p>
