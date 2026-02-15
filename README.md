@@ -1,8 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben Ömer Faruk Berber</h1>
 
-<h2 align:"left"> İzmir Mithatpaşa Mesleki Ve Teknik Anadolu Lisesinde 10. Sınıfım.  </h2>
-Unity 2D odaklı oyunlar geliştiriyorum.
-C# konusunda deneyimliyim, Python tarafında ise öğrenmeye ve projelerimde kullanmaya devam ediyorum.
+<p align:"left"> İzmir Mithatpaşa Mesleki Ve Teknik Anadolu Lisesinde 10. Sınıfım.  </p>
+Unity 2D odaklı oyunlar geliştiriyorum. C# konusunda deneyimliyim, Python tarafında ise öğrenmeye ve projelerimde kullanmaya devam ediyorum.
 <p align="left">
 Basit ama stabil sistemler kurmayı, temiz kod yazmayı ve kullanıcı deneyimini ön planda tutmayı seviyorum.
 </p>
