@@ -18,6 +18,6 @@
 
 <div align="center">
 
-// <img src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deo-c" />
 
 </div>
